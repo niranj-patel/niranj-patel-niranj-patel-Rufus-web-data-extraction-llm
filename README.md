@@ -16,6 +16,6 @@ To install Rufus, first clone the repository:
 ```bash
 git clone https://github.com/niranj-patel/Rufus-web-data-extraction-llm.git
 cd rufus
-conda create -p env python=3.8 -y
+conda create -p env python=3.12.0 -y
 source activate ./env
 pip install -r requirements.txt
